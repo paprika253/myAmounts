@@ -1,2 +1,2 @@
 # myAmounts
-Little app with Parse and writing XML files
+Little app with Parsing and writing XML files
